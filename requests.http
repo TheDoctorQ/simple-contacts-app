@@ -22,4 +22,4 @@ Content-Type: application/json
 }
 
 ### CONTACTS DESTROY
-DELETE http://localhost:3000/contacts/4.json
+DELETE http://localhost:3000/contacts/5.json
